@@ -1,13 +1,3 @@
----
-title: Phenom PM Intelligence
-emoji: 🧭
-colorFrom: indigo
-colorTo: purple
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # Phenom PM Intelligence Tool
 
 Research a prospect's talent operations and generate a tailored Phenom sales pitch.
