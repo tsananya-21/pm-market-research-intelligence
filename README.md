@@ -1,4 +1,4 @@
-# Phenom PM Intelligence Tool
+# PM Market Intelligence
 
 Research a prospect's talent operations and generate a tailored Phenom sales pitch.
 Enter a company name → live web research (Tavily) → analysis & pitch (Claude).
